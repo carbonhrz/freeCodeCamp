@@ -141,12 +141,6 @@ while (counter != 0) {
     }
   }
 
-  
-  console.log(sum);
-  console.log(sumPenny);
-  console.log("Differenz: " + difference);
-  console.log(change);
-  
   return change;
 }
 
